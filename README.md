@@ -73,14 +73,13 @@ Ejercicios modelo de exámenes
 
 Programas completos paso a paso
 
-✅ Objetivo Educativo
+Objetivo Educativo
 Este repositorio tiene como fin reforzar los fundamentos de la programación mediante la práctica constante. Está orientado a estudiantes de carreras informáticas, particularmente en sus primeros pasos con la lógica y la resolución de problemas computacionales.
-
-📬 Contacto
+##Contacto
 Desarrollado por Bruno Ríos
-📧 Para consultas: brunorioscorp4@gmail.com
-📚 Universidad Nacional de José C. Paz – Carrera: Gestión de las Tecnologías de la Información
-📄 Licencia
+Para consultas: brunorioscorp4@gmail.com
+## Universidad Nacional de José C. Paz – Carrera: Gestión de las Tecnologías de la Información
+## Licencia
 Este proyecto está bajo la licencia MIT. Ver archivo LICENSE para más información.
 
 
