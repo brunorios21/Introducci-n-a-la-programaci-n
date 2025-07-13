@@ -51,17 +51,12 @@ Navegá al directorio donde esté el archivo deseado.
 
 Ejecutá:
 
-bash
-Copiar
-Editar
 python nombre_del_archivo.py
 Por ejemplo:
 
-bash
-Copiar
-Editar
+
 python Calculadora_de_Factorial.py
-🧠 Temas Cubiertos
+Temas Cubiertos
 Variables y tipos de datos
 
 Condicionales (if, elif, else)
