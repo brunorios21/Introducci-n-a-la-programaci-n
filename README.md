@@ -1,4 +1,4 @@
-# 🧠 Introducción a la Programación – Ejercicios Prácticos en Python
+# Introducción a la Programación – Ejercicios Prácticos en Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Estado-En_Desarrollo-yellow" />
 </p>
 
-## 📌 Descripción
+## Descripción
 
 Este repositorio contiene una colección de ejercicios resueltos en Python, como parte del curso **Introducción a la Programación**. Los archivos están organizados en prácticas individuales, ejercicios modelo, y funciones útiles, abarcando estructuras básicas, condicionales, bucles, funciones, validaciones y más.
 
@@ -14,7 +14,7 @@ Cada script representa una pequeña unidad de aprendizaje destinada a reforzar l
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```bash
 algoritmos_y_programacion/
@@ -40,7 +40,7 @@ algoritmos_y_programacion/
     ├── ejercicio3_MODELO.py
     ├── ejercicio5modelo.py
     └── ...
-🚀 Cómo ejecutar los archivos
+Cómo ejecutar los archivos
 Asegurate de tener Python 3 instalado. Recomendado: versión 3.10 o superior.
 
 Cloná este repositorio o descargalo como ZIP.
